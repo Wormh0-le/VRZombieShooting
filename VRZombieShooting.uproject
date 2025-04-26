@@ -1,6 +1,6 @@
-{
+﻿{
 	"FileVersion": 3,
-	"EngineAssociation": "5.1",
+	"EngineAssociation": "8D87D5D1-7B54-46EA-98B4-F1BA9ADD3162",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -24,14 +24,6 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c4f13f7fc2c048d8ad4985ecfbf4f6c6"
 		},
 		{
-			"Name": "VisualStudioTools",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/362651520df94e4fa65492dbcba44ae2",
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
-		},
-		{
 			"Name": "OpenXRExpansionPlugin",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
@@ -50,10 +42,6 @@
 				"Android",
 				"HoloLens"
 			]
-		},
-		{
-			"Name": "OpenVRExpansionPlugin",
-			"Enabled": true
 		},
 		{
 			"Name": "VRExpansionPlugin",
